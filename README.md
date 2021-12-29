@@ -1,9 +1,9 @@
 # Example how to run WebAssembly with NodeJS
 
-1000000 iteration fibonacci looks something like this:
+1000000000 iteration fibonacci looks something like this:
 
-WebAssembly time: 1.255ms
+WebAssembly time:  748.123ms
 
 ---
 
-NodeJs time:  14.84ms
+NodeJs time:  6.548s
